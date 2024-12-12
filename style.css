@@ -1,0 +1,15 @@
+
+input{
+    width: 30%;
+    border-color: rgb(250, 175, 1);
+    box-shadow: 4px 4px 8px gray;
+    padding: 5px;
+}
+button{
+    padding: 5px;
+    width: 80px;
+    box-shadow: 4px 4px 8px gray;
+}
+.cart-btn{
+    width: 120px;
+}
